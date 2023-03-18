@@ -1,0 +1,110 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "ClickPlugin",
+    "module": "ClickPlugin",
+    "version": "unspecified",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ClickPlugin-unspecified.jar",
+          "url": "ClickPlugin-unspecified.jar",
+          "size": 20352,
+          "sha512": "36318ec462999907e161a90488ffd998a23b22983ba642068a2cfe12c0ff6b4692210052c67590c04c74a0ef3e4ca984c04641559c07e67fbe0e9195769e18f1",
+          "sha256": "dbd33db96333843a45bff27e67481c25359b71b0a2e46d338aa7e98b6c2f3d43",
+          "sha1": "d52c479b7b61481d42d606bcb19a4c08e22b789d",
+          "md5": "48a4d814b9cc0b3b5e7d3e5cd500d2b2"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 11,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle",
+          "version": {
+            "requires": "7.2.0"
+          }
+        },
+        {
+          "group": "com.android.tools.build",
+          "module": "gradle-api",
+          "version": {
+            "requires": "7.3.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-gradle-plugin",
+          "version": {
+            "requires": "1.8.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-gradle-plugin-api",
+          "version": {
+            "requires": "1.8.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "ClickPlugin-unspecified.jar",
+          "url": "ClickPlugin-unspecified.jar",
+          "size": 20352,
+          "sha512": "36318ec462999907e161a90488ffd998a23b22983ba642068a2cfe12c0ff6b4692210052c67590c04c74a0ef3e4ca984c04641559c07e67fbe0e9195769e18f1",
+          "sha256": "dbd33db96333843a45bff27e67481c25359b71b0a2e46d338aa7e98b6c2f3d43",
+          "sha1": "d52c479b7b61481d42d606bcb19a4c08e22b789d",
+          "md5": "48a4d814b9cc0b3b5e7d3e5cd500d2b2"
+        }
+      ]
+    }
+  ]
+}
