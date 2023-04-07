@@ -40,7 +40,7 @@ publishing {
             from(components["java"])
             groupId = "com.silvertip.meta"
             artifactId = "clickPlugin"
-            version = "1.0.0"
+            version = "1.0.1"
         }
     }
 }

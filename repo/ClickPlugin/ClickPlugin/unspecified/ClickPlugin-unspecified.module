@@ -38,11 +38,11 @@
         {
           "name": "ClickPlugin-unspecified.jar",
           "url": "ClickPlugin-unspecified.jar",
-          "size": 20352,
-          "sha512": "36318ec462999907e161a90488ffd998a23b22983ba642068a2cfe12c0ff6b4692210052c67590c04c74a0ef3e4ca984c04641559c07e67fbe0e9195769e18f1",
-          "sha256": "dbd33db96333843a45bff27e67481c25359b71b0a2e46d338aa7e98b6c2f3d43",
-          "sha1": "d52c479b7b61481d42d606bcb19a4c08e22b789d",
-          "md5": "48a4d814b9cc0b3b5e7d3e5cd500d2b2"
+          "size": 20351,
+          "sha512": "237799afac5bde3c807e8a3c30d30ce9a9f1d972dd57c44a393f2370056379e9d2e096b2393c43318b56b37163697eee706bd8ceb70ec130127d7958270d5f54",
+          "sha256": "9a4787ffebf650e7dfddfc656d49085de452fd42da81086df69ad765b7ade2f8",
+          "sha1": "163c8691f982827be2d0c2a01ab3a79309c02c03",
+          "md5": "be184f95bd8d16aa13b120ad8507aacc"
         }
       ]
     },
@@ -98,11 +98,11 @@
         {
           "name": "ClickPlugin-unspecified.jar",
           "url": "ClickPlugin-unspecified.jar",
-          "size": 20352,
-          "sha512": "36318ec462999907e161a90488ffd998a23b22983ba642068a2cfe12c0ff6b4692210052c67590c04c74a0ef3e4ca984c04641559c07e67fbe0e9195769e18f1",
-          "sha256": "dbd33db96333843a45bff27e67481c25359b71b0a2e46d338aa7e98b6c2f3d43",
-          "sha1": "d52c479b7b61481d42d606bcb19a4c08e22b789d",
-          "md5": "48a4d814b9cc0b3b5e7d3e5cd500d2b2"
+          "size": 20351,
+          "sha512": "237799afac5bde3c807e8a3c30d30ce9a9f1d972dd57c44a393f2370056379e9d2e096b2393c43318b56b37163697eee706bd8ceb70ec130127d7958270d5f54",
+          "sha256": "9a4787ffebf650e7dfddfc656d49085de452fd42da81086df69ad765b7ade2f8",
+          "sha1": "163c8691f982827be2d0c2a01ab3a79309c02c03",
+          "md5": "be184f95bd8d16aa13b120ad8507aacc"
         }
       ]
     }
