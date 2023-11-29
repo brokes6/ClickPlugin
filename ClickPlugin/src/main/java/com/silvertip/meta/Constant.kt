@@ -12,6 +12,6 @@ object Constant {
     /**
      * 对应自己模块中的ViewClickCheck文件路径
      */
-    const val CLICK_HOOK_PATH = "com/silvertip/meta/core/proxy/ClickProxy"
+    const val CLICK_HOOK_PATH = "com/amazing/scanning/tool/proxy/ClickProxy"
 
 }
